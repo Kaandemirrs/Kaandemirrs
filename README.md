@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/XE9KAHuQmHAAAAAC/android-dance-yay.gif" alt="Dancing Android" width="250"/>
+  <img src="https://media.giphy.com/media/QCAaqb7STvc3u/giphy.gif" alt="Dancing Android" width="250"/>
 </p>
 🎯 Android Developer | Kotlin Fanatic | UI/UX Explorer
 
