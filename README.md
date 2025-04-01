@@ -2,6 +2,8 @@
 
 🎯 Android Developer | Kotlin Fanatic | UI/UX Explorer
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hsbHUxeTlra21vZGE4anFkMXJ0eDQ0bzRtYmRzMWExb3hvYXZ6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCAaqb7STvc3u/giphy.gif" width="200"/>
+
 ## 👨‍💻 About Me
 
 - 🎓 3rd year Software Engineering student at **Beykent University**
@@ -11,7 +13,6 @@
 - 📦 Building **scalable and high-performance mobile apps**
 - 🛠️ Passionate about **Clean Architecture**, **Coroutines**, and **Firebase**
 
-![Waving Android Mascot]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hsbHUxeTlra21vZGE4anFkMXJ0eDQ0bzRtYmRzMWExb3hvYXZ6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCAaqb7STvc3u/giphy.gif])
 
 ## 🌐 Connect with me
 
