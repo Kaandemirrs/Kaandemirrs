@@ -1,8 +1,12 @@
 ## Hi there 👋 I'm Kaan
 
+
+<p align="center">
+  <img src="https://media.tenor.com/XE9KAHuQmHAAAAAC/android-dance-yay.gif" alt="Dancing Android" width="250"/>
+</p>
 🎯 Android Developer | Kotlin Fanatic | UI/UX Explorer
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hsbHUxeTlra21vZGE4anFkMXJ0eDQ0bzRtYmRzMWExb3hvYXZ6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCAaqb7STvc3u/giphy.gif" width="200"/>
+
 
 ## 👨‍💻 About Me
 
