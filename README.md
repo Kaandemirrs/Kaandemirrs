@@ -11,6 +11,8 @@
 - 📦 Building **scalable and high-performance mobile apps**
 - 🛠️ Passionate about **Clean Architecture**, **Coroutines**, and **Firebase**
 
+![Waving Android Mascot](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-demir-b712b3260/)
