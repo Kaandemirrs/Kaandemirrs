@@ -1,10 +1,12 @@
 ## Hi there 👋 I'm Kaan
 
+🎯 Android Developer | Kotlin Fanatic | UI/UX Explorer
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/QCAaqb7STvc3u/giphy.gif" alt="Dancing Android" width="350"/>
 </p>
-🎯 Android Developer | Kotlin Fanatic | UI/UX Explorer
+
 
 
 
