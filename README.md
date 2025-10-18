@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 4rd year Software Engineering student at **Beykent University**
+
 - 🚀 I’m actively developing Android apps with **Kotlin** & **MVVM**
 - 🎓 Studied Java initially, now fully focused on **modern Android architecture**
 - 🎨 Creating stylish and functional UI screens using **XML layouts**
