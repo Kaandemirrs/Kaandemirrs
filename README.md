@@ -5,17 +5,11 @@
   ### 🚀 Crafting Pixel-Perfect Mobile Experiences & Robust Software Solutions
 
   <p align="center">
-    <a href="https://linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN" target="_blank">
+    <a href="https://www.linkedin.com/in/kaan-demir-b712b3260/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:seninemailin@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://seninwebsiten.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.behance.net/SENIN_BEHANCE_ADIN">
-      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    <a href="mailto:kaandmr4331@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -42,25 +36,25 @@ I help clients transform their ideas into high-quality digital products. Whether
 
 **Mobile Development**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 
 **Web & Backend**
 <br>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
 **Design & Tools**
 <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="AdobeCC" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 
 </div>
 
@@ -71,11 +65,11 @@ I help clients transform their ideas into high-quality digital products. Whether
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaandemirrs&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&icon_color=007bff&text_color=999" alt="Kaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaandemirrs&layout=compact&theme=transparent&hide_border=true&title_color=007bff&text_color=999&hide=html,css,jupyter%20notebook" alt="Top Languages Tool" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaandemirrs&layout=compact&theme=transparent&hide_border=true&title_color=007bff&text_color=999&hide=html,css,jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaandemirrs&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&icon_color=007bff&text_color=999" alt="Kaan's GitHub Stats" />
 </p>
 
 </div>
