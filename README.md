@@ -1,11 +1,11 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=300&section=header&text=Kaan%20Demir&fontSize=70&fontColor=ffffff&desc=Mobile%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descAlign=50)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=250&section=header&text=Kaan%20Demir&fontSize=70&fontColor=ffffff&desc=Mobile%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descAlign=50" alt="Kaan Demir Header" width="100%" />
+<div align="center">
 
   ### 🚀 Crafting Pixel-Perfect Mobile Experiences & Robust Software Solutions
 
   <p align="center">
-    <a href="https://linkedin.com/in/kullaniciadin" target="_blank">
+    <a href="https://linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:seninemailin@gmail.com">
@@ -13,6 +13,9 @@
     </a>
     <a href="https://seninwebsiten.com">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.behance.net/SENIN_BEHANCE_ADIN">
+      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
   </p>
 
@@ -22,12 +25,14 @@
 
 ### 👨‍💻 About Me
 
-Ben, **yazılım mühendisliği** ve **arayüz tasarımı** disiplinlerini birleştiren tutkulu bir geliştiriciyim. Sadece kod yazmıyor, kullanıcıların aşık olacağı deneyimler tasarlıyorum.
+Hi there! I'm **Kaan**, a final-year **Software Engineering student** and a passionate **Freelance Mobile Developer & UI/UX Designer**.
 
-- 🔭 **Şu an üzerinde çalıştığım:** Cross-platform mobil uygulamalar ve SaaS projeleri.
-- 🎨 **Tasarım:** Figma ile UI/UX sistemleri ve prototipler oluşturuyorum.
-- 🌱 **Öğreniyorum:** 3D Web Deneyimler (Spline/Three.js) ve Advanced Next.js.
-- ⚡ **Uzmanlık:** Mobile Development (Flutter/Native), Frontend Engineering & UI Design.
+I help clients transform their ideas into high-quality digital products. Whether it's a complex mobile application or a sleek user interface, I focus on writing clean code and creating intuitive designs.
+
+- 💼 **Freelance:** Available for mobile app development (Flutter/Native) and UI/UX design projects.
+- 🔭 **Currently working on:** Building SaaS products and cross-platform mobile apps.
+- 🎨 **Design:** Creating design systems and interactive prototypes in Figma.
+- 🌱 **Learning:** Advanced 3D Web Experiences (Spline/Three.js).
 
 ---
 
@@ -39,7 +44,7 @@ Ben, **yazılım mühendisliği** ve **arayüz tasarımı** disiplinlerini birle
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 
 **Web & Backend**
@@ -65,8 +70,12 @@ Ben, **yazılım mühendisliği** ve **arayüz tasarımı** disiplinlerini birle
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaandemirrs&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&icon_color=007bff&text_color=999" alt="Kaan's GitHub Stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaandemirrs&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&icon_color=007bff&text_color=999" alt="Kaan's GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaandemirrs&layout=compact&theme=transparent&hide_border=true&title_color=007bff&text_color=999&hide=html,css,jupyter%20notebook" alt="Top Languages" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaandemirrs&layout=compact&theme=transparent&hide_border=true&title_color=007bff&text_color=999&hide=html,css,jupyter%20notebook" alt="Top Languages" />
+</p>
 
 </div>
